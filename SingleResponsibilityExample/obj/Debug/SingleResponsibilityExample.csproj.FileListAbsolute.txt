@@ -1,0 +1,7 @@
+c:\users\dean.jaquez\source\repos\SingleResponsibilityExample\SingleResponsibilityExample\obj\Debug\SingleResponsibilityExample.csprojResolveAssemblyReference.cache
+c:\users\dean.jaquez\source\repos\SingleResponsibilityExample\SingleResponsibilityExample\obj\Debug\SingleResponsibilityExample.csproj.CoreCompileInputs.cache
+c:\users\dean.jaquez\source\repos\SingleResponsibilityExample\SingleResponsibilityExample\bin\Debug\SingleResponsibilityExample.exe.config
+c:\users\dean.jaquez\source\repos\SingleResponsibilityExample\SingleResponsibilityExample\bin\Debug\SingleResponsibilityExample.exe
+c:\users\dean.jaquez\source\repos\SingleResponsibilityExample\SingleResponsibilityExample\bin\Debug\SingleResponsibilityExample.pdb
+c:\users\dean.jaquez\source\repos\SingleResponsibilityExample\SingleResponsibilityExample\obj\Debug\SingleResponsibilityExample.exe
+c:\users\dean.jaquez\source\repos\SingleResponsibilityExample\SingleResponsibilityExample\obj\Debug\SingleResponsibilityExample.pdb
